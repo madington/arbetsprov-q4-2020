@@ -28,6 +28,11 @@ Skulle du stöta på problem, eller om du har några frågor om uppgifterna kan 
 
 **Pontus** | Utvecklare: [pontus.armini@madington.com](mailto:pontus.armini@madington.com)
 
+**Lycka till!**
+
+
+![](https://media.giphy.com/media/l4FATJpd4LWgeruTK/giphy.gif)
+
 
 ## Leverans
 
@@ -58,16 +63,11 @@ Du börjar enkelt genom att använda detta repository som en start-mall. Klicka 
 Detta kommer att kopiera över det du ser här till ditt github konto. Välj själv om du vill göra det publikt eller privat. Om privat, kom ihåg att bjuda in [patrik.wilhelmsson@madington.com](mailto:patrik.wilhelmsson@madington.com) eller skicka oss länken till ditt publika repo när du känner dig klar.
 
 
-**Lycka till!**
-
-
-
-
 ## Brief
 
 Vi på IKEA har lanserat två nya färgöverdrag till Symfonisk, vår populära smarta bordslampa med inbyggd högtalare och önskar att visa upp dessa i annonsytor på ett par populära siter runt om i Sverige.
 
-Vi vill gärna ha lite interaktivitet i annonsen så att användaren kan se de två nya färgerna Blå och Röd som vi nu erbjuder utöver de tidigare färgerna, sen vill vi ha med en knapp också som tar användaren till översiktssidan för våra Symfonisk-produkter.
+Vi vill gärna ha lite interaktivitet i annonsen så att användaren kan se de två nya färgerna Blå och Röd som vi nu erbjuder utöver de tidigare färgerna, sen vill vi ha med en knapp också som tar användaren till produktsidan för överdragen.
 
 Vi tänker oss följande format: **320x250**, **980x400**, **300x600**
 
